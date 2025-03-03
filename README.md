@@ -1,12 +1,14 @@
-Group Members: 
+# Course Management System (CMS)
 
-Andrew Fulco (Lead Coder)
+Group Members & Roles: 
 
-Senai Gebremedhin (Frontend developer
+Andrew Fulco - Project Manager & Developer
 
-Hannah Howard (Backend developer)
+Senai Gebremedhin - Backend Developer (Java)
 
-Joseph Hwang (Code verifier)
+Hannah Howard - Frontend Developer (GUI)
+
+Joseph Hwang - Quality Assurance & Developer
 
 ## Project Description
 Keeping track of courses, students, and grades can be challenging for both students and instructors. 
