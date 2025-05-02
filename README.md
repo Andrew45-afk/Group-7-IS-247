@@ -11,7 +11,7 @@ Hannah Howard - Frontend Developer (GUI)
 Joseph Hwang - Quality Assurance & Developer
 
 ## Project Description
-The **Course Management System (CMS)** is designed to help instructors efficiently manage course enrollments, track student grades, and generate academic reports. The system will allow instructors to add and manage courses, enroll students, and input grades. Students will be able to access and track their grades through the system.
+The **Course Management System (CMS)** is designed to help instructors efficiently manage course enrollments, track student grades, and generate academic reports. The system will allow instructors to add and manage courses, enroll students, and input grades. Students will be able to access and track their grades through the system. By default, the program has group members Joseph and Hannah listed as registered students, each with grades of 96.5 and 88.0, respectively.
 
 Key features of the CMS include:
 - **Course Management**: Instructors can create, update, and delete courses and enroll students.
